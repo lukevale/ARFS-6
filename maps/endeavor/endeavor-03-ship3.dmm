@@ -13972,6 +13972,9 @@
 	dir = 6
 	},
 /area/looking_glass/lg_1)
+"TP" = (
+/turf/simulated/floor/tiled/steel_grid,
+/area/bridge)
 "TT" = (
 /obj/effect/landmark/looking_glass,
 /turf/simulated/floor/looking_glass/center,
@@ -34395,7 +34398,7 @@ fG
 lM
 lM
 lM
-lE
+TP
 aQ
 gv
 sd
