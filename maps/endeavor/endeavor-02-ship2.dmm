@@ -1603,13 +1603,10 @@
 	},
 /obj/machinery/recharger/wallcharger{
 	pixel_x = 5;
-	pixel_y = 19
-	},
-/obj/machinery/recharger/wallcharger{
-	pixel_x = 5;
 	pixel_y = 28
 	},
 /obj/machinery/atmospherics/unary/vent_scrubber/on,
+/obj/machinery/recharger,
 /turf/simulated/floor/tiled/dark,
 /area/bridge/blueshield)
 "dr" = (
@@ -20756,19 +20753,6 @@
 	},
 /turf/simulated/floor/tiled,
 /area/hallway/deck_two/central)
-"VP" = (
-/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
-	dir = 4
-	},
-/obj/structure/cable/green{
-	d1 = 4;
-	d2 = 8;
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/ramptop{
-	dir = 8
-	},
-/area/rnd/xenobiology)
 "VR" = (
 /turf/simulated/wall/r_wall,
 /area/bridge/blueshield)
@@ -20837,9 +20821,8 @@
 	pixel_y = 28
 	},
 /obj/structure/cable/green{
-	d1 = 1;
 	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/bridge/blueshield)
@@ -21193,7 +21176,6 @@
 /obj/item/weapon/storage/firstaid/regular{
 	pixel_x = -2
 	},
-/obj/item/device/healthanalyzer,
 /obj/machinery/atmospherics/unary/vent_pump/on,
 /turf/simulated/floor/tiled/dark,
 /area/bridge/blueshield)
@@ -21512,14 +21494,6 @@
 	},
 /turf/simulated/floor/tiled,
 /area/hallway/deck_two/central)
-"YF" = (
-/obj/machinery/atmospherics/pipe/simple/hidden/supply{
-	dir = 4
-	},
-/turf/simulated/floor/ramptop{
-	dir = 8
-	},
-/area/rnd/xenobiology)
 "YG" = (
 /obj/machinery/light/small{
 	dir = 8;
@@ -43664,8 +43638,8 @@ Xy
 uM
 aO
 qg
-VP
-YF
+sw
+lF
 qg
 qg
 Tc
