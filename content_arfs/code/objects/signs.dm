@@ -42,3 +42,8 @@
 
     arrow
         icon_state = "arrow"
+
+
+/obj/structure/sign/warning/radioactive/clean
+	icon = 'content_arfs/icons/obj/signs.dmi'
+	icon_state = "radiation2"
