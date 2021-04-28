@@ -3934,6 +3934,7 @@
 #include "content_arfs\code\objects\custombed.dm"
 #include "content_arfs\code\objects\gunbox_arfs.dm"
 #include "content_arfs\code\objects\headset.dm"
+#include "content_arfs\code\objects\random_spawns.dm"
 #include "content_arfs\code\objects\signs.dm"
 #include "content_arfs\code\objects\clothing\accessories.dm"
 #include "content_arfs\code\objects\clothing\arf_suits.dm"
