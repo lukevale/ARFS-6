@@ -1396,7 +1396,6 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/sleeper)
 "dm" = (
-/obj/structure/table/glass,
 /obj/structure/sink{
 	dir = 4;
 	icon_state = "sink";
@@ -2316,7 +2315,6 @@
 /turf/simulated/wall,
 /area/medical/morgue)
 "eN" = (
-/obj/structure/table/glass,
 /obj/structure/sink{
 	dir = 4;
 	icon_state = "sink";
@@ -4585,7 +4583,10 @@
 /turf/simulated/floor/tiled,
 /area/rnd/research)
 "jI" = (
-/obj/machinery/door/airlock/medical,
+/obj/machinery/door/airlock/medical{
+	name = "Mental Health";
+	req_access = list(64)
+	},
 /obj/machinery/door/firedoor/glass,
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled/white,
@@ -5159,6 +5160,8 @@
 	dir = 4;
 	icon_state = "camera"
 	},
+/obj/item/weapon/storage/box/bodybags,
+/obj/item/weapon/hand_labeler,
 /turf/simulated/floor/tiled/dark,
 /area/medical/morgue)
 "kY" = (
@@ -5873,7 +5876,7 @@
 /obj/machinery/door/airlock/glass_medical/polarized{
 	id_tag = "cmo_door";
 	id_tint = "cmo_glass";
-	name = "Cheif Medical Officer";
+	name = "Chief Medical Officer";
 	req_one_access = list(40)
 	},
 /turf/simulated/floor/tiled/white,
@@ -12107,6 +12110,14 @@
 	},
 /turf/simulated/floor/tiled,
 /area/hallway/deck_one/central)
+"zO" = (
+/obj/machinery/door/airlock/hatch{
+	name = "Morgue";
+	req_access = list(6);
+	req_one_access = newlist()
+	},
+/turf/simulated/floor/tiled/techfloor,
+/area/medical/morgue)
 "zP" = (
 /obj/structure/window/reinforced,
 /obj/structure/table/reinforced,
@@ -15573,6 +15584,7 @@
 /obj/item/clothing/suit/caution,
 /obj/item/weapon/reagent_containers/glass/bucket,
 /obj/item/weapon/mop,
+/obj/machinery/light/small,
 /turf/simulated/floor/tiled/techmaint,
 /area/medical/medbay)
 "Gr" = (
@@ -15645,7 +15657,7 @@
 /turf/simulated/floor/tiled,
 /area/rnd/research)
 "Gw" = (
-/obj/machinery/vending/cola{
+/obj/machinery/vending/cola/soft{
 	dir = 8
 	},
 /turf/simulated/floor/wood,
@@ -23747,9 +23759,8 @@
 	pixel_y = 24
 	},
 /obj/structure/cable/green{
-	d1 = 1;
 	d2 = 2;
-	icon_state = "1-2"
+	icon_state = "0-2"
 	},
 /turf/simulated/floor/wood,
 /area/rnd/research/breakroom)
@@ -24891,7 +24902,6 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
 	},
-/obj/machinery/door/airlock/medical,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -24902,6 +24912,10 @@
 	},
 /obj/structure/disposalpipe/segment{
 	dir = 4
+	},
+/obj/machinery/door/airlock/medical{
+	name = "Mental Health";
+	req_access = list(64)
 	},
 /turf/simulated/floor/tiled/white,
 /area/medical/psych)
@@ -43420,7 +43434,7 @@ CE
 uX
 xF
 CE
-CE
+Pl
 eM
 eM
 Rk
@@ -43622,7 +43636,7 @@ eM
 eM
 eM
 eM
-eM
+zO
 eM
 eM
 hx

@@ -4354,7 +4354,7 @@
 	pixel_y = 28
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "js" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -6241,7 +6241,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "oj" = (
 /turf/simulated/wall,
 /area/engineering/engine_smes)
@@ -8941,7 +8941,7 @@
 	icon_state = "tube1";
 	pixel_y = 0
 	},
-/turf/simulated/floor/tiled,
+/turf/simulated/floor/tiled/steel_grid,
 /area/bridge)
 "uR" = (
 /obj/structure/sign/warning/hot_exhaust,
@@ -9436,7 +9436,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "vV" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/machinery/portable_atmospherics/canister/oxygen,
@@ -10282,7 +10282,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "xN" = (
 /turf/simulated/floor/grass,
 /area/rnd/xenobiology/xenoflora)
@@ -13094,7 +13094,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "ER" = (
 /obj/structure/window/reinforced{
 	dir = 8
@@ -13617,6 +13617,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
+/obj/item/weapon/stamp/ce,
 /turf/simulated/floor/carpet/oracarpet,
 /area/crew_quarters/heads/chief)
 "FO" = (
@@ -14267,7 +14268,7 @@
 /obj/structure/table/glass,
 /obj/item/weapon/reagent_containers/food/snacks/slice/carrotcake/filled,
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "Hi" = (
 /obj/machinery/camera/network/command{
 	dir = 1
@@ -14419,6 +14420,7 @@
 	dir = 6
 	},
 /obj/structure/closet/hydrant{
+	dir = 8;
 	pixel_x = -32
 	},
 /turf/simulated/floor/tiled,
@@ -15274,7 +15276,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Ju" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -15620,7 +15622,6 @@
 /area/space)
 "Kb" = (
 /obj/structure/table/reinforced,
-/obj/item/weapon/stamp/ce,
 /obj/effect/floor_decal/borderfloor{
 	dir = 1
 	},
@@ -16485,7 +16486,7 @@
 	pixel_y = 0
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "LJ" = (
 /obj/machinery/light/small{
 	dir = 4;
@@ -16545,7 +16546,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "LO" = (
 /obj/structure/disposalpipe/segment,
 /obj/effect/floor_decal/techfloor/orange{
@@ -16678,7 +16679,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Mg" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -16868,7 +16869,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Mx" = (
 /obj/structure/table/bench/wooden,
 /obj/effect/floor_decal/borderfloor{
@@ -17170,7 +17171,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Na" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -17273,7 +17274,7 @@
 "Nk" = (
 /obj/structure/table/glass,
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "Nl" = (
 /obj/machinery/atmospherics/pipe/simple/visible/green,
 /obj/machinery/atmospherics/pipe/simple/visible/yellow{
@@ -17429,7 +17430,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "NE" = (
 /obj/structure/sign/warning/radioactive,
 /turf/simulated/wall,
@@ -18218,7 +18219,7 @@
 	},
 /obj/machinery/vending/snack,
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Ph" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -18304,7 +18305,7 @@
 	icon_state = "0-8"
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Pn" = (
 /obj/structure/cable/yellow{
 	d1 = 4;
@@ -18326,6 +18327,7 @@
 	dir = 1
 	},
 /obj/structure/closet/hydrant{
+	dir = 4;
 	pixel_x = 32
 	},
 /turf/simulated/floor/tiled,
@@ -19273,7 +19275,7 @@
 	},
 /obj/machinery/vending/coffee,
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Rf" = (
 /obj/machinery/atmospherics/pipe/tank/carbon_dioxide{
 	dir = 4
@@ -19439,7 +19441,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Rw" = (
 /obj/machinery/firealarm{
 	dir = 4;
@@ -20435,7 +20437,7 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "Tk" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/airlock/glass_research{
@@ -21500,8 +21502,8 @@
 /area/engineering/atmos)
 "Vu" = (
 /obj/structure/closet/hydrant{
-	dir = 4;
-	pixel_x = -29
+	dir = 8;
+	pixel_x = -32
 	},
 /obj/effect/floor_decal/borderfloor{
 	dir = 8
@@ -21675,13 +21677,13 @@
 /obj/effect/floor_decal/corner/paleblue/border{
 	dir = 1
 	},
-/obj/machinery/vending/cola,
 /obj/structure/sign/poster{
 	pixel_y = 32;
 	poster_type = "/datum/poster/bay_10"
 	},
+/obj/machinery/vending/cola/soft,
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "VN" = (
 /obj/structure/table/standard,
 /obj/item/weapon/gun/energy/taser/xeno,
@@ -22032,7 +22034,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "Wy" = (
 /obj/machinery/light{
 	dir = 8;
@@ -22657,7 +22659,7 @@
 /obj/effect/floor_decal/borderfloorwhite,
 /obj/machinery/button/windowtint/multitint{
 	dir = 1;
-	id = "patient_c";
+	id = "patient_a";
 	pixel_x = 9;
 	pixel_y = -23
 	},
@@ -22920,7 +22922,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/carpet/tealcarpet,
-/area/space)
+/area/crew_quarters/medbreak)
 "Yv" = (
 /obj/structure/closet/secure_closet/personal/patient,
 /obj/effect/floor_decal/borderfloorwhite,
@@ -23099,7 +23101,7 @@
 /area/engineering/foyer)
 "YR" = (
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "YS" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -23350,7 +23352,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "Zu" = (
 /obj/machinery/power/apc{
 	dir = 1;
@@ -23456,7 +23458,7 @@
 	pixel_y = 0
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "ZE" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -23666,7 +23668,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled/white,
-/area/space)
+/area/crew_quarters/medbreak)
 "ZY" = (
 /obj/structure/table/glass,
 /obj/machinery/reagentgrinder,
