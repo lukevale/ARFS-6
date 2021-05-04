@@ -226,6 +226,8 @@ area/security/hallway
 	music = null
 	sound_env = MEDIUM_SOFTFLOOR
 
+/area/crew_quarters/captain/actually
+	name = "\improper Captain's Quarters"
 
 //Holodorms
 /area/crew_quarters/sleep/holodorm1

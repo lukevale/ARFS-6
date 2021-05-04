@@ -124,7 +124,7 @@
 /obj/structure/grille,
 /obj/structure/foamedmetal,
 /turf/simulated/floor/plating,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "aq" = (
 /obj/machinery/door/airlock/glass,
 /obj/machinery/door/firedoor/glass,
@@ -1116,7 +1116,7 @@
 	pixel_y = 9
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "cx" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 8;
@@ -2567,7 +2567,7 @@
 	req_access = list(20)
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "fF" = (
 /obj/structure/closet/firecloset/full,
 /turf/simulated/floor/tiled/techmaint,
@@ -3154,7 +3154,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "gX" = (
 /obj/structure/sign/department/commander{
 	layer = 3.3;
@@ -3393,7 +3393,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "hR" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -3628,7 +3628,7 @@
 	},
 /obj/item/weapon/storage/fancy/cigar/havana,
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "im" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/maintenance/medical,
@@ -4083,7 +4083,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "jh" = (
 /obj/machinery/atmospherics/pipe/tank/oxygen{
 	dir = 1
@@ -4320,7 +4320,7 @@
 	},
 /obj/machinery/camera/network/command,
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "jC" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -4838,7 +4838,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "lc" = (
 /obj/machinery/light{
 	dir = 4;
@@ -4978,7 +4978,7 @@
 "lq" = (
 /obj/structure/stairs/spawner/north,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "lr" = (
 /obj/machinery/firealarm{
 	dir = 4;
@@ -5329,7 +5329,7 @@
 "mj" = (
 /obj/structure/displaycase,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "mk" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -5922,7 +5922,7 @@
 	name = "Colony Director's Shutters"
 	},
 /turf/simulated/floor/plating,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "nJ" = (
 /obj/structure/sign/signnew/electrical,
 /turf/simulated/wall/r_wall,
@@ -6578,7 +6578,7 @@
 	},
 /obj/machinery/camera/network/command,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "pm" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -6591,7 +6591,7 @@
 /area/engineering/engine_smes)
 "pn" = (
 /turf/simulated/wall/r_wall,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "po" = (
 /obj/structure/bed/chair/office/dark{
 	dir = 8
@@ -6630,7 +6630,7 @@
 /area/hallway/deck_two/central)
 "pq" = (
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "ps" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -6641,7 +6641,7 @@
 /area/engineering)
 "pu" = (
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "py" = (
 /obj/structure/closet/radiation,
 /obj/effect/floor_decal/borderfloor{
@@ -6674,7 +6674,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "pC" = (
 /obj/structure/table/woodentable,
 /obj/item/weapon/folder/blue_captain{
@@ -6692,7 +6692,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "pG" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -6767,7 +6767,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "pO" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -6860,7 +6860,7 @@
 "qd" = (
 /obj/machinery/computer/communications,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "qf" = (
 /obj/machinery/atmospherics/pipe/simple/visible/purple{
 	dir = 10
@@ -6887,7 +6887,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "qi" = (
 /obj/machinery/pipedispenser/disposal,
 /obj/effect/floor_decal/industrial/outline/yellow,
@@ -7024,7 +7024,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "qC" = (
 /obj/effect/floor_decal/borderfloor,
 /obj/effect/floor_decal/corner/blue/border,
@@ -7488,7 +7488,7 @@
 	req_access = list(20)
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "rC" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/research{
@@ -7712,7 +7712,7 @@
 /obj/machinery/hologram/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "sa" = (
 /obj/machinery/alarm{
 	dir = 1;
@@ -7780,7 +7780,7 @@
 /obj/item/clothing/suit/space/void/captain,
 /obj/item/clothing/head/helmet/space/void/captain,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "sg" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -8445,7 +8445,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "tJ" = (
 /obj/machinery/shower{
 	dir = 4;
@@ -10003,7 +10003,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "xe" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -10211,7 +10211,7 @@
 	},
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "xF" = (
 /obj/machinery/door/airlock/atmos{
 	name = "Atmospherics Maintenance";
@@ -10960,7 +10960,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "zI" = (
 /obj/structure/cable/yellow{
 	d1 = 2;
@@ -11448,7 +11448,7 @@
 	name = "Colony Director"
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "AU" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable{
@@ -11832,7 +11832,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "BX" = (
 /obj/machinery/door/firedoor,
 /obj/structure/grille,
@@ -11872,7 +11872,7 @@
 "Cc" = (
 /mob/living/simple_mob/animal/passive/fox/renault,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Cf" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/airlock/maintenance/common,
@@ -11988,7 +11988,7 @@
 /area/engineering/atmos)
 "Cx" = (
 /turf/simulated/wall,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Cy" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/ladder/updown,
@@ -12558,7 +12558,7 @@
 	pixel_x = -5
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "DG" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 10
@@ -13092,7 +13092,7 @@
 	pixel_x = 26
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "EW" = (
 /obj/effect/floor_decal/borderfloor,
 /obj/effect/floor_decal/industrial/danger,
@@ -13108,7 +13108,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "EY" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
@@ -13516,7 +13516,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "FG" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -14619,7 +14619,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Ih" = (
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled/steel_grid,
@@ -14800,7 +14800,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "IB" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/research{
@@ -14874,7 +14874,7 @@
 "IG" = (
 /obj/machinery/vending/snack,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "IH" = (
 /obj/machinery/light{
 	dir = 8;
@@ -16654,7 +16654,7 @@
 	pixel_x = 25
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "LW" = (
 /obj/machinery/alarm{
 	dir = 8;
@@ -16700,7 +16700,7 @@
 "Ma" = (
 /obj/machinery/vending/cola/soft,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Md" = (
 /obj/effect/floor_decal/borderfloorwhite{
 	dir = 4
@@ -16823,7 +16823,7 @@
 	pixel_y = -24
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Mr" = (
 /obj/effect/floor_decal/borderfloor{
 	dir = 4
@@ -16994,7 +16994,7 @@
 	pixel_y = -29
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "MG" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -18075,7 +18075,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "OJ" = (
 /obj/machinery/atmospherics/pipe/simple/visible/green{
 	dir = 4
@@ -18100,7 +18100,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "OO" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
@@ -18167,7 +18167,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/carpet/blucarpet,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "OU" = (
 /obj/structure/window/reinforced{
 	dir = 8
@@ -18261,7 +18261,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Pc" = (
 /obj/effect/floor_decal/borderfloor/corner{
 	dir = 4;
@@ -18290,7 +18290,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Pe" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 4
@@ -18619,7 +18619,7 @@
 /obj/item/weapon/book/manual/standard_operating_procedure,
 /obj/item/weapon/book/manual/command_guide,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "PO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -18686,7 +18686,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "PT" = (
 /obj/machinery/atmospherics/pipe/simple/visible/yellow,
 /turf/simulated/floor/tiled,
@@ -18827,10 +18827,10 @@
 	dir = 8
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Qf" = (
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Qg" = (
 /obj/effect/floor_decal/borderfloorblack{
 	dir = 8
@@ -19588,7 +19588,7 @@
 	pixel_y = -27
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "Ry" = (
 /obj/structure/cable/green{
 	d2 = 4;
@@ -19746,7 +19746,7 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "RN" = (
 /obj/machinery/smartfridge/drying_rack,
 /obj/effect/floor_decal/borderfloor{
@@ -19936,7 +19936,7 @@
 	pixel_y = -11
 	},
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "RY" = (
 /obj/effect/floor_decal/techfloor/orange{
 	dir = 6
@@ -20900,7 +20900,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "TP" = (
 /obj/effect/floor_decal/borderfloor/corner,
 /obj/effect/floor_decal/corner/purple/bordercorner,
@@ -21955,7 +21955,7 @@
 	req_one_access = newlist()
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "VZ" = (
 /obj/effect/floor_decal/borderfloor,
 /obj/effect/floor_decal/corner/yellow/border,
@@ -22313,7 +22313,7 @@
 /obj/machinery/hologram/holopad,
 /obj/effect/floor_decal/industrial/outline/grey,
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "WL" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 1
@@ -22878,7 +22878,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "XN" = (
 /obj/structure/reagent_dispensers/watertank/high,
 /obj/effect/floor_decal/industrial/outline/yellow,
@@ -22944,7 +22944,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "XY" = (
 /obj/structure/dogbed{
 	name = "fox bed"
@@ -22954,7 +22954,7 @@
 	},
 /obj/structure/closet/walllocker/emerglocker/south,
 /turf/simulated/floor/wood,
-/area/crew_quarters/captain)
+/area/crew_quarters/captain/actually)
 "XZ" = (
 /turf/simulated/floor/tiled/white,
 /area/restroom/decktwo)
