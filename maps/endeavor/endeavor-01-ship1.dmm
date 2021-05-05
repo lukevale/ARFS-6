@@ -2380,29 +2380,6 @@
 	},
 /turf/simulated/floor/tiled/dark,
 /area/rnd/research/testingrange)
-"eS" = (
-/obj/effect/floor_decal/borderfloor{
-	dir = 8
-	},
-/obj/effect/floor_decal/corner/blue/border{
-	dir = 8
-	},
-/obj/structure/sign/department/medbay{
-	pixel_x = -31
-	},
-/obj/machinery/light{
-	dir = 8;
-	icon_state = "tube1";
-	pixel_y = 0
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 6
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 5
-	},
-/turf/simulated/floor/tiled,
-/area/hallway/deck_one/central)
 "eT" = (
 /turf/simulated/wall,
 /area/medical/chemistry)
@@ -5475,14 +5452,6 @@
 /area/rnd/research/breakroom)
 "lw" = (
 /obj/machinery/clonepod/transhuman/full,
-/turf/simulated/floor/tiled/techmaint,
-/area/medical/resleeving)
-"lx" = (
-/obj/machinery/light{
-	dir = 4;
-	icon_state = "tube1"
-	},
-/obj/machinery/transhuman/resleever,
 /turf/simulated/floor/tiled/techmaint,
 /area/medical/resleeving)
 "ly" = (
@@ -9639,6 +9608,25 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/medical/medbay)
+"uC" = (
+/obj/machinery/atmospherics/unary/vent_pump/on{
+	dir = 4
+	},
+/obj/effect/floor_decal/borderfloor{
+	dir = 8
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 6
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 5
+	},
+/obj/effect/floor_decal/corner/paleblue/border{
+	dir = 8;
+	icon_state = "bordercolor"
+	},
+/turf/simulated/floor/tiled,
+/area/hallway/deck_one/central)
 "uD" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -11563,25 +11551,6 @@
 	},
 /turf/simulated/floor/tiled,
 /area/rnd/research)
-"yK" = (
-/obj/structure/cable/green{
-	d1 = 4;
-	d2 = 8;
-	icon_state = "4-8"
-	},
-/obj/effect/floor_decal/borderfloor/corner{
-	dir = 8;
-	icon_state = "borderfloorcorner"
-	},
-/obj/effect/floor_decal/corner/blue/bordercorner{
-	dir = 8;
-	icon_state = "bordercolorcorner"
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 6
-	},
-/turf/simulated/floor/tiled,
-/area/hallway/deck_one/central)
 "yL" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -16000,19 +15969,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/plating,
 /area/maintenance/research)
-"Hf" = (
-/obj/effect/floor_decal/borderfloor/corner{
-	dir = 1;
-	icon_state = "borderfloorcorner"
-	},
-/obj/effect/floor_decal/corner/blue/bordercorner{
-	dir = 1
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 5
-	},
-/turf/simulated/floor/tiled,
-/area/hallway/deck_one/central)
 "Hh" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -20007,6 +19963,24 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/medical/psych)
+"Os" = (
+/obj/structure/cable/green{
+	d1 = 4;
+	d2 = 8;
+	icon_state = "4-8"
+	},
+/obj/effect/floor_decal/borderfloor/corner{
+	dir = 8;
+	icon_state = "borderfloorcorner"
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 6
+	},
+/obj/effect/floor_decal/corner/paleblue/bordercorner{
+	dir = 8
+	},
+/turf/simulated/floor/tiled,
+/area/hallway/deck_one/central)
 "Ou" = (
 /obj/machinery/disposal,
 /obj/structure/disposalpipe/trunk{
@@ -21876,6 +21850,14 @@
 /obj/effect/floor_decal/industrial/outline/grey,
 /turf/simulated/floor/tiled/white,
 /area/medical/reception)
+"Sk" = (
+/obj/machinery/light{
+	dir = 4;
+	icon_state = "tube1"
+	},
+/obj/machinery/transhuman/resleever,
+/turf/space,
+/area/medical/resleeving)
 "Sm" = (
 /obj/effect/floor_decal/borderfloorwhite{
 	icon_state = "borderfloor_white"
@@ -21934,6 +21916,30 @@
 	},
 /turf/simulated/floor/tiled/white,
 /area/medical/sleeper)
+"Sr" = (
+/obj/effect/floor_decal/borderfloor{
+	dir = 8
+	},
+/obj/structure/sign/department/medbay{
+	pixel_x = -31
+	},
+/obj/machinery/light{
+	dir = 8;
+	icon_state = "tube1";
+	pixel_y = 0
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 6
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 5
+	},
+/obj/effect/floor_decal/corner/paleblue/border{
+	dir = 8;
+	icon_state = "bordercolor"
+	},
+/turf/simulated/floor/tiled,
+/area/hallway/deck_one/central)
 "Ss" = (
 /obj/effect/floor_decal/borderfloor{
 	dir = 6
@@ -22129,6 +22135,19 @@
 	},
 /turf/simulated/floor/tiled,
 /area/quartermaster/mining/storage)
+"SG" = (
+/obj/effect/floor_decal/borderfloor/corner{
+	dir = 1;
+	icon_state = "borderfloorcorner"
+	},
+/obj/effect/floor_decal/steeldecal/steel_decals7{
+	dir = 5
+	},
+/obj/effect/floor_decal/corner/paleblue/bordercorner{
+	dir = 1
+	},
+/turf/simulated/floor/tiled,
+/area/hallway/deck_one/central)
 "SI" = (
 /obj/structure/morgue{
 	dir = 8
@@ -22138,24 +22157,6 @@
 	},
 /turf/simulated/floor/tiled/techfloor,
 /area/medical/morgue)
-"SJ" = (
-/obj/machinery/atmospherics/unary/vent_pump/on{
-	dir = 4
-	},
-/obj/effect/floor_decal/borderfloor{
-	dir = 8
-	},
-/obj/effect/floor_decal/corner/blue/border{
-	dir = 8
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 6
-	},
-/obj/effect/floor_decal/steeldecal/steel_decals7{
-	dir = 5
-	},
-/turf/simulated/floor/tiled,
-/area/hallway/deck_one/central)
 "SN" = (
 /obj/machinery/power/apc{
 	cell_type = /obj/item/weapon/cell/super;
@@ -43056,7 +43057,7 @@ RU
 mt
 Qf
 Sm
-lx
+Sk
 do
 eb
 qh
@@ -45670,11 +45671,11 @@ Ph
 Ph
 Ph
 QV
-SJ
-eS
-Hf
+uC
+Sr
+SG
 TO
-yK
+Os
 Iv
 Sb
 WC
